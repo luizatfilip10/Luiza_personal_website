@@ -1,0 +1,186 @@
+body {
+	background-image:url("watergif.gif");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family:Tahoma, Geneva, sans-serif;
+
+}
+	
+title{
+	text-align: center;
+	color: black;
+
+}
+
+h1 { 
+	color: darkgrey;
+	font-size: 3em;
+	text-align: center;
+}
+
+h2 {
+	color: lightgrey;
+	font-size: 2em;
+	text-align: center;
+}
+
+h3{
+	color: lightgrey;
+	font-size: 1em;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+p {
+	color: white;
+	font-size: 1em;
+	width: 545px;
+}
+li{
+	color: white;
+}
+button{
+	margin-bottom: 10px;
+}
+
+
+a {
+	color: #808B96
+}
+
+div.me{
+	background-color: lightgrey;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+	padding-bottom: 10px;
+	padding-left: 17px;
+	padding-right: 17px;
+	border-radius: 10px;
+	width: 315px;
+	left: 400px;
+	top: 150px;
+	padding: 20px;
+	padding-top: 5px;
+
+
+}
+
+div.myhobbies{
+	background-color: lightgrey;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+	padding-bottom: 10px;
+	padding-left: 17px;
+	padding-right: 17px;
+	border-radius: 10px;
+	left: 530px;
+	top: 150px;
+	padding: 20px;
+	width: 315px;
+	
+
+
+}
+
+div.mystudies{
+	background-color: lightgrey;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+	padding-bottom: 10px;
+	padding-left: 17px;
+	padding-right: 17px;
+	border-radius: 10px;
+	left: 900px;
+	top: 150px;
+	padding: 20px;
+	width: 315px
+
+}
+
+div.content{
+	width: 545px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	
+
+
+}
+
+div.navigation{
+	border: solid 0px lightgrey;
+	text-align: center;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+div.other{
+	background-color: lightgrey;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	left: 900px;
+	top: 150px;
+padding-top: 0.2px;
+padding-bottom: 0.5;
+	width: 230px
+}
+
+div.ingredients{
+	color: white;
+	background-color: transparent;
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+div.container{
+	width:790px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+
+}
+
+nav{
+	text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: whitesmoke; 
+}
+
+nav a {
+	float: left;
+	text-align: center;
+	padding: 12px;
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+
+nav a:hover {
+	background-color: grey;
+}
+
+.active {
+	background-color: darkgrey;
